@@ -4,6 +4,7 @@ require_relative "z_order"
 require_relative "star"
 require_relative "bomb"
 require_relative "laser"
+require_relative "Halloween"
 
 class GameWindow < Gosu::Window
 	def initialize
